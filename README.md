@@ -1,17 +1,18 @@
-![Header] 👋 Hello! Welcome to my Github profile. My name is Pedro and my nickname is "DroPê"!
+## 👋 Hello! Welcome to my Github profile. 
+### My name is Pedro and my nickname is "DroPê"!
 
 
 <img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40">
 
 - 🔭 Atualmente trabalho na empresa Gx2 como desenvolvedor.
-- 🌱 Estudando para me tornar Fullstack developer!
 - 🤔 Possuo conhecimento em 'Genexus', 'HTML', 'CSS', 'Javascript', 'Flutter'
+- 🌱 Estudando para me tornar Fullstack developer!
 
 <img src="https://user-images.githubusercontent.com/102333181/183000154-724b273a-f987-4128-88c0-0edc3b809bde.png" alt="United states's flag" width="40">
 
 - 🔭 Currently I work at Gx2 company as a developer.
+- 🤔 I have knowledge in 'Genexus', 'HTML', 'CSS', 'Javascript', NodeJs, 'Flutter'.
 - 🌱 Studying to become a Fullstack developer!
-- 🤔 I have knowledge in 'Genexus', 'HTML', 'CSS', 'Javascript', 'Flutter'
 
 ## Contact me
                 
@@ -26,6 +27,7 @@
     <img align="center" alt="Drope-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Drope-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="Drope-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+    <img align="center" alt="Drope-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
 
