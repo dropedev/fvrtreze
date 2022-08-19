@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/102333181/183000154-724b273a-f987-4128-88c0-0edc3b809bde.png" alt="United states's flag" width="40">
 
-- 🔭 Currently I work at Gx2 company as a developer.
+- 🔭 Currently working at Gx2 company as a developer.
 - 🤔 I have knowledge in 'Genexus', 'HTML', 'CSS', 'Javascript', NodeJs, 'Flutter'.
 - 🌱 Studying to become a Fullstack developer!
 
