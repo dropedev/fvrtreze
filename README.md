@@ -5,13 +5,13 @@
 <img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40">
 
 - 🔭 Atualmente trabalho na empresa Gx2 como desenvolvedor.
-- 🤔 Possuo conhecimento em 'Genexus', 'HTML', 'CSS', 'Javascript', 'Flutter'
+- 🤔 Possuo conhecimento em 'Genexus', 'HTML', 'CSS', 'Javascript', 'NodeJs', 'Flutter'.
 - 🌱 Estudando para me tornar Fullstack developer!
 
 <img src="https://user-images.githubusercontent.com/102333181/183000154-724b273a-f987-4128-88c0-0edc3b809bde.png" alt="United states's flag" width="40">
 
 - 🔭 Currently working at Gx2 company as a developer.
-- 🤔 I have knowledge in 'Genexus', 'HTML', 'CSS', 'Javascript', NodeJs, 'Flutter'.
+- 🤔 I have knowledge in 'Genexus', 'HTML', 'CSS', 'Javascript', 'NodeJs', 'Flutter'.
 - 🌱 Studying to become a Fullstack developer!
 
 ## Contact me
